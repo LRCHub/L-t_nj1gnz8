@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "MY FUTURE BOY",
+  "base_artist": "Tommy february6",
+  "createdAt": "2025-12-01T08:02:08.181818Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "M.F.B.F. (To My Future Boy Friend)",
+      "artist": "APRIL",
+      "has_synced": true,
+      "path": "select/01_M.F.B.F._(To_My_Future_Boy_Friend)_APRIL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MY FUTURE BOY",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/02_MY_FUTURE_BOY_Tommy_february6.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MY FUTURE BOY",
+      "artist": "Tommy february⁶",
+      "has_synced": true,
+      "path": "select/03_MY_FUTURE_BOY_Tommy_february6.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MY FUTURE BOY",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/pl_01_MY_FUTURE_BOY_Tommy_february6.txt"
+    }
+  ]
+}
