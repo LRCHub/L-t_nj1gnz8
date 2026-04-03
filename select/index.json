@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "MY FUTURE BOY",
   "base_artist": "Tommy february6",
-  "createdAt": "2025-12-01T08:02:08.181818Z",
+  "createdAt": "2026-04-03T04:26:04.758538Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -29,12 +29,244 @@
       "path": "select/03_MY_FUTURE_BOY_Tommy_february6.lrc"
     },
     {
-      "id": "petitlyrics_1",
-      "source": "petitlyrics",
-      "title": "MY FUTURE BOY",
-      "artist": "Tommy february6",
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Boy",
+      "artist": "Elvie Shane",
+      "has_synced": true,
+      "path": "select/04_My_Boy_Elvie_Shane.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Boy",
+      "artist": "Elvie Shane",
+      "has_synced": true,
+      "path": "select/05_My_Boy_Elvie_Shane.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Boy (My Girl Version)",
+      "artist": "Elvie Shane",
+      "has_synced": true,
+      "path": "select/06_My_Boy_(My_Girl_Version)_Elvie_Shane.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "When My Boy Walks Down The Street",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/07_When_My_Boy_Walks_Down_The_Street_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "He's My Boy",
+      "artist": "Mandy Smith",
       "has_synced": false,
-      "path": "select/pl_01_MY_FUTURE_BOY_Tommy_february6.txt"
+      "path": "select/08_He's_My_Boy_Mandy_Smith.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Must've Been My Boy",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/09_It_Must've_Been_My_Boy_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Settle Down My Boy",
+      "artist": "Men At Work",
+      "has_synced": false,
+      "path": "select/10_Settle_Down_My_Boy_Men_At_Work.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Boy Lollipop",
+      "artist": "Shivaree",
+      "has_synced": false,
+      "path": "select/11_My_Boy_Lollipop_Shivaree.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Boy Builds Coffins",
+      "artist": "Florence + The Machine",
+      "has_synced": true,
+      "path": "select/12_My_Boy_Builds_Coffins_Florence_+_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give It to My Boy From School (Timbaland feat. Nelly Furtado & Justin Timberlake vs. Hot Chip)",
+      "artist": "The Hood Internet",
+      "has_synced": false,
+      "path": "select/13_Give_It_to_My_Boy_From_School_(Timbaland_feat._Nelly_Furtado_&_Justin_Timberlake_The_Hood_Internet.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Give It To My Boy From School",
+      "artist": "The Hood Internet",
+      "has_synced": false,
+      "path": "select/14_Give_It_To_My_Boy_From_School_The_Hood_Internet.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My boy",
+      "artist": "Agnes",
+      "has_synced": false,
+      "path": "select/15_My_boy_Agnes.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Love My Boy",
+      "artist": "Alexia",
+      "has_synced": false,
+      "path": "select/16_I_Love_My_Boy_Alexia.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "My Boy",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/17_My_Boy_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "My Boy",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/18_My_Boy_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "The Kelley Deal 6000",
+      "has_synced": false,
+      "path": "select/19_Future_Boy_The_Kelley_Deal_6000.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "Makeout Videotape",
+      "has_synced": true,
+      "path": "select/20_Future_Boy_Makeout_Videotape.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "Olly Dobson feat. Roger Bart",
+      "has_synced": true,
+      "path": "select/21_Future_Boy_Olly_Dobson_feat._Roger_Bart.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "Olly Dobson, Roger Bart & Ensemble",
+      "has_synced": true,
+      "path": "select/22_Future_Boy_Olly_Dobson,_Roger_Bart_&_Ensemble.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "Olly Dobson, Roger Bart",
+      "has_synced": true,
+      "path": "select/23_Future_Boy_Olly_Dobson,_Roger_Bart.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "Catherine Wheel",
+      "has_synced": true,
+      "path": "select/24_Future_Boy_Catherine_Wheel.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "Olly Dobson",
+      "has_synced": true,
+      "path": "select/25_Future_Boy_Olly_Dobson.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "Turin Brakes",
+      "has_synced": true,
+      "path": "select/26_Future_Boy_Turin_Brakes.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Future Boy (Demo Version)",
+      "artist": "Original Cast of Back to the Future: The Musical",
+      "has_synced": true,
+      "path": "select/27_Future_Boy_(Demo_Version)_Original_Cast_of_Back_to_the_Future__The_Musical.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "Turin Breaks",
+      "has_synced": true,
+      "path": "select/28_Future_Boy_Turin_Breaks.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "Catherine Wheel",
+      "has_synced": true,
+      "path": "select/29_Future_Boy_Catherine_Wheel.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "02 Future Boy",
+      "artist": "Catherine Wheel",
+      "has_synced": true,
+      "path": "select/30_02_Future_Boy_Catherine_Wheel.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "JUJU B. GOODE",
+      "has_synced": true,
+      "path": "select/31_Future_Boy_JUJU_B._GOODE.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "Turin Brakes",
+      "has_synced": true,
+      "path": "select/32_Future_Boy_Turin_Brakes.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Future Boy",
+      "artist": "Turin Brakes",
+      "has_synced": false,
+      "path": "select/33_Future_Boy_Turin_Brakes.txt"
     }
   ]
 }
